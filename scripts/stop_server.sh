@@ -1,5 +1,3 @@
 #!/bin/bash
 
-set -e
-
-service tomcat stop
+sudo service tomcat stop
