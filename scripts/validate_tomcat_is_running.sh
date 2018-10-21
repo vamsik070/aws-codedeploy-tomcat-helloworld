@@ -2,6 +2,6 @@
 
 set -e
 
-service tomcat8 status 2>&1 >/dev/null
+service tomcat status 2>&1 >/dev/null
 
 echo "INFO : Tomcat is running."
