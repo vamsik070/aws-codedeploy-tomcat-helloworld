@@ -2,4 +2,4 @@
 
 set -e
 
-rm -fr /usr/share/tomcat/webapps/*
+rm -rf /usr/share/tomcat/webapps/*
