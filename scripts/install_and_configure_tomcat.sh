@@ -2,6 +2,6 @@
 
 set -e
 
-yum install tomcat8 -y
+yum install tomcat -y
 chkconfig --level 345 tomcat8 on
-service tomcat8 start 
+service tomcat start 
