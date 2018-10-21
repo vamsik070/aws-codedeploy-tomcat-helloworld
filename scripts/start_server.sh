@@ -2,4 +2,4 @@
 
 set -e
 
-service tomcat8 start
+service tomcat start
