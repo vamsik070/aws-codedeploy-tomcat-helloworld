@@ -1,1 +1,1 @@
-service tomcat stop
+sudo service tomcat stop
