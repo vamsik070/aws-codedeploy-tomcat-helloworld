@@ -2,4 +2,4 @@
 
 set -e
 
-rm -rf /usr/share/tomcat/webapps/*
+rm -rf /opt/install/tomcat/webapps/*
