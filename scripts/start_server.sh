@@ -2,4 +2,4 @@
 
 set -e
 
-service tomcat start
+sudo /etc/init.d/ra stop
