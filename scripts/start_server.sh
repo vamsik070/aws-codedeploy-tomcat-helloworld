@@ -2,4 +2,4 @@
 
 set -e
 
-sudo /etc/init.d/ra stop
+sudo /etc/init.d/ra start
