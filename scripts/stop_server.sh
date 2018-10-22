@@ -1,1 +1,1 @@
-sudo service tomcat stop
+sudo /etc/init.d/tomcat stop
