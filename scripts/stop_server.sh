@@ -1,1 +1,1 @@
-sudo /etc/init.d/tomcat {stop}
+sudo /etc/init.d/ra stop
