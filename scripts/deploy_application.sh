@@ -2,4 +2,4 @@
 
 set -e
 
-mv /tmp/VijayJavaHelloWorld.war /usr/share/tomcat/webapps
+mv /tmp/VijayJavaHelloWorld.war /opt/install/tomcat/webapps/
